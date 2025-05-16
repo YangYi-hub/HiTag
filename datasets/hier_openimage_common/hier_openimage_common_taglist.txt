@@ -1,0 +1,3334 @@
+entity
+physical entity
+object
+natural object
+plant
+vine
+houseplant
+algae
+seaweed
+plant organs
+stem
+trunk
+branch
+sugarcane
+stump
+root
+leaf
+greenery
+banana leaf
+maple leaf
+tobacco leaves
+fruit
+pod
+acorn
+cherry
+peach
+olive
+pear
+apple
+seed
+nut
+pine cone
+peanut
+macadamia nut
+hazelnut
+coconut
+chestnut
+walnut
+coffee bean
+pumpkin seed
+sunflower seed
+raisin
+grape
+lychee
+passion fruit
+apricot
+citrus fruit
+orange
+lime
+grapefruit
+lemon
+mango
+melon
+watermelon
+winter melon
+muskmelon
+cantaloupe
+berry
+persimmon
+strawberry
+blueberry
+bayberry
+raspberry
+cranberry
+avocado
+pomegranate
+banana
+kiwi
+hami melon
+dragon fruit
+starfruit
+nectarine
+papaya
+prickly pear
+mangosteen
+plum
+durian
+pineapple
+jackfruit
+jujube
+calabash
+flower
+water lily
+lotus
+iris
+daffodil
+tulip
+lily
+marigold
+daisy
+poppy
+anemone
+dahlia
+petunia
+orchid
+sunflower
+chrysanthemum
+peony
+carnation
+cherry blossom
+chinese rose
+clivia
+hibiscus flower
+blossom
+bud
+rose
+rhododendron
+fuchsia
+poinsettia
+oleander
+heather
+hydrangea
+hibiscus
+blueweed
+violet
+thistle
+pansy
+morning glory
+livingstone daisy
+dandelion
+jasmine
+squill
+tree root
+vegetable
+onion
+cane sugar
+pumpkin
+mushroom
+zucchini
+yam
+lettuce
+broccoli
+cauliflower
+brussels sprouts
+daikon
+turnip
+spinach
+cucumber
+squash
+truffle
+bean
+pea
+beet
+potato
+cabbage
+sprout
+tomato
+eggplant
+asparagus
+carrot
+sweet potato
+bell pepper
+okra
+celery
+spice
+mint
+basil
+parsley
+thyme
+dill
+rosemary
+clover
+geranium
+pepper
+butterfly pea
+lavender
+aloe vera
+pitcher plant
+artichoke
+tobacco
+garlic
+tree
+birch
+willow
+bonsai
+beech tree
+palm tree
+coconut palm
+oak
+magnolia
+mangrove
+maple
+holly
+eucalyptus tree
+fig
+rowan
+cashew
+macadamia
+hazel shrub
+cypress
+pine
+fir
+cedar
+ginkgo tree
+cypress tree
+elm
+hawthorn
+banana plant
+apple tree
+cherry tree
+albizia
+orange tree
+olive tree
+mulberry
+gliricidia
+guava tree
+moss
+lichen
+fern
+grass
+cactus
+bush
+shrub
+lilac
+wheat
+succulent
+reed
+animal construct
+nest
+bird nest
+spider web
+biological parts
+cell
+animal coverings
+hair
+hairstyle
+bald
+hair color
+blonde hair
+brown hair
+gray hair
+red hair
+white hair
+black hair
+curly hair
+purple hair
+blue hair
+green hair
+orange hair
+pink hair
+yellow hair
+straight hair
+braided hair
+ponytail
+long hair
+short hair
+braid
+mane
+beard
+lash
+shell
+seashell
+feather
+skin
+body
+ivory
+shoulder
+belly
+chest
+joint
+ankle
+elbow
+wrist
+knee
+head
+neck
+face
+eye
+eyebrow
+eyelash
+tear
+nose
+ear
+mouth
+beak
+waist
+hand
+finger
+limb
+arm
+leg
+lap
+foot
+toe
+barefoot
+buttock
+brain
+bone
+hip
+heart
+muscle
+wing
+tail
+skeleton
+fin
+claw
+whisker
+antler
+penis
+paw
+limb stump
+nipple
+tooth
+blood
+animal
+invertebrate
+worm
+planarian
+leech
+starfish
+sea cucumber
+sea urchin
+insect
+pest
+fly
+mosquito
+roach
+locust
+larva
+caterpillar
+maggot
+mealworm
+nymph
+beetle
+ladybird
+flea
+bee
+wasp
+ant
+cricket
+grasshopper
+stick insect
+praying mantis
+dragonfly
+moth
+butterfly
+earwig
+vespa
+centipede
+jellyfish
+coral
+scorpion
+spider
+snail
+abalone
+conch
+huitre
+clam
+tick
+isopod
+octopus
+crab
+hermit crab
+king crab
+lobster
+squid
+termite
+sea anemone
+millipede
+sea spider
+horseshoe crab
+slug
+amphibian
+frog
+tadpole
+tree frog
+salamander
+fish
+snappers
+mackerels
+porgies
+grouper
+catfish
+tuna
+pufferfish
+trout
+sardine
+shark
+whale shark
+stingray
+flatfish
+swordfish
+seahorse
+carp
+koi
+goldfish
+clownfish
+seabass
+reptile
+snake
+python
+turtle
+crocodile
+dinosaur
+lizard
+iguana
+gecko
+platypus
+bird
+crow
+parrot
+macaw
+cockatoo
+African grey parrot
+budgie
+swan
+cob
+black swan
+seabird
+pelican
+cormorant
+penguin
+gull
+auk
+mollymawk
+water bird
+goose
+duck
+duckling
+wood duck
+hummingbird
+ostrich
+sparrow
+hornbill
+turkey
+chicken
+hen
+woodpecker
+toucan
+eagle
+bald eagle
+owl
+barn owl
+vulture
+heron
+egret
+stork
+flamingo
+swallow
+starling
+pigeon
+osprey
+falcon
+bluebird
+robin
+canary
+house finch
+blackbird
+jay
+raven
+magpie
+pheasant
+quail
+partridge
+peacock
+ruffed grouse
+cuckoo
+emu
+guinea fowl
+downy woodpecker
+bantam
+hawk
+crane
+spoonbill
+roadrunner
+wren
+mockingbird
+titmouse
+hoopoe
+kookaburra
+mammal
+marine mammal
+seal
+sea lion
+walrus
+whale
+dolphin
+killer whale
+humpback whale
+manatee
+panda
+bear
+bear cub
+polar bear
+brown bear
+raccoon
+fox
+coyote
+wolf
+lion
+cougar
+mountain lion
+serval
+margay
+lynx
+tiger
+caracal
+cheetah
+jaguar
+jaguarundi
+hyena
+leopard
+snow leopard
+pet
+cat
+egyptian cat
+kitten
+american shorthair
+persian cat
+british shorthair
+burmese cat
+ocelot
+domestic cat
+siamese
+abyssinian
+leopard cat
+dog
+puppy
+german shepherd
+labrador
+poodle
+chihuahua
+dachshund
+rottweiler
+doberman pinscher
+husky
+beagle
+boxer dog
+bulldog
+german shorthair pointer
+great dane
+afghan hound
+schnauzer
+rhodesian ridgeback
+sheepdog
+gordon setter
+setter
+shih-tzu
+weimaraner
+tibetan mastiff
+maltese
+basset
+malamute
+dalmatian
+samoyed
+ibizan hound
+shiba inu
+golden retriever
+chow chow
+bichon frise
+corgi
+foxhound
+hound
+saint bernard
+bernese mountain dog
+pit bull
+otter
+meerkat
+rodent
+rat
+squirrel
+hamster
+mouse
+beaver
+guinea pig
+rabbit
+elephant
+mammoth
+baby elephant
+armadillo
+hedgehog
+lemur
+monkey
+squirrel monkey
+macaque
+baboon
+ape
+chimpanzee
+orangutan
+gorilla
+pig
+piglet
+warthog
+giraffe
+deer
+fawn
+roe deer
+reindeer
+moose
+alpaca
+donkey
+sheep
+lamb
+bison
+goat
+antelope
+wildebeest
+cattle
+calf
+bull
+cow
+water buffalo
+yak
+sloth
+anteater
+skunk
+mink
+mole
+bat
+kangaroo
+rhinoceros
+camel
+hippo
+koala
+horse
+zebra
+pony
+mule
+buffalo
+ferret
+badger
+opossum
+cub
+person
+life stage
+baby
+child
+teenager
+adult
+man
+woman
+elder
+boy
+girl
+family relation
+sibling
+twin
+cousin
+partner
+newlywed
+bride
+wife
+husband
+grandfather
+mother
+father
+daughter
+son
+social role
+customer
+patient
+client
+passenger
+bridesmaid
+host
+hero
+flower girl
+commuter
+pedestrian
+tourist
+protester
+player
+leader
+king
+queen
+director
+shepherd
+princess
+prince
+president
+occupation
+entertainer
+magician
+musician
+bassist
+guitarist
+rocker
+violinist
+pianist
+saxophonist
+violist
+singer
+rapper
+lead singer
+drummer
+joker
+dancer
+ballet dancer
+ballerina
+actor
+child actor
+juggler
+snake charmer
+strongman
+athlete
+climber
+hockey player
+ice hockey player
+football player
+skater
+skateboarder
+runner
+swimmer
+diver
+skier
+basketball player
+baseball player
+catcher
+gymnast
+tennis player
+rock climber
+goalkeeper
+motorcycle racer
+rugby player
+soccer goalkeeper
+soccer player
+weightlifter
+warrior
+matador
+boxer
+scientist
+engineer
+writer
+poet
+journalist
+farmer
+beekeeper
+artist
+photographer
+sculptor
+painter
+conductor
+makeup artist
+craftsman
+welder
+construction worker
+plumber
+barber
+carpenter
+blacksmith
+mechanic
+builder
+stonecutter
+driver
+truck driver
+bus driver
+taxi driver
+racing driver
+astronaut
+student
+fisherman
+airman
+pilot
+sailor
+lifeguard
+flight attendant
+waiter
+maid
+soldier
+commander
+lumberjack
+miner
+cowboy
+servant
+quarry worker
+coachman
+policeman
+police officer
+volunteer
+bartender
+judge
+fireman
+guard
+detective
+bodyguard
+businessperson
+referee
+gardener
+street vendor
+bullfighter
+chef
+samurai
+educator
+teacher
+professor
+nurse
+doctor
+dentist
+surgeon
+vet
+trainer
+architect
+butcher
+rescuer
+pirate
+fashion model
+lawyer
+coach
+author
+secretary
+nanny
+worker
+cook
+hay worker
+electrician
+reporter
+DJ
+sportsman
+motorcyclist
+rider
+snowboarder
+surfer
+biker
+martial artist
+archer
+wrestler
+hacker
+speaker
+camper
+tailor
+handicapped person
+zombie
+hiker
+microorganism
+mold
+fungi
+celestial body
+earth
+moon
+sun
+star
+galaxy
+planet
+constellation
+nebula
+geographical feature
+fossil
+area
+place
+territory
+surface
+ground
+water surface
+shoreline
+harbor
+dock
+rise
+corner
+hole
+leak
+angle
+habitat
+wilderness
+body of water
+sea
+lake
+waterfall
+gulf
+bay
+stream
+river
+strait
+pool
+waterway
+pond
+fjord
+creek
+landform
+canyon
+pasture
+hayfield
+swamp
+hillside
+plateau
+volcano
+snow mountain
+ravine
+rock arch
+ice cave
+islet
+archipelago
+forest floor
+continent
+oasis
+peninsula
+woodland
+plain
+snowfield
+flat
+island
+hill
+mountain
+ridge
+cliff
+forest
+beach
+cave
+shore
+lakeshore
+coast
+river bank
+wetland
+ski slope
+headland
+valley
+iceberg
+glacier
+ice floe
+dune
+reef
+peak
+grassland
+desert
+quarry
+mine
+field
+wheat field
+corn field
+flower field
+rice field
+sunflower field
+farmland
+orchard
+excavation
+rainforest
+jungle
+world
+natural materials
+ice cube
+pebble
+jade
+coal
+petroleum
+stone
+atmosphere
+smoke
+mist
+fog
+sky
+blue sky
+evening sky
+night sky
+cloud
+artifact
+built environment
+building
+platform
+podium
+catwalk
+scaffold
+deck
+stage
+backdrop
+boxing ring
+castle
+hospital
+clinic
+pyramid
+auto showroom
+bell tower
+indoor
+monument
+gravestone
+mausoleum
+tower
+chinese tower
+eiffel tower
+obelisk
+ruins
+skyscraper
+roof
+dome
+tile roof
+stair
+home
+manor house
+log cabin
+yurt
+house
+apartment
+cottage
+farmhouse
+villa
+palace
+outbuildings
+parking space
+beehive
+tree house
+flower bed
+shelter
+tent
+hut
+igloo
+hangar
+courtyard
+terrace
+pavilion
+stable
+chicken coop
+barn
+garage
+outhouse
+conservatory
+shed
+dog house
+religious buildings
+shrine
+monastery
+church tower
+chapel
+mosque
+temple
+church
+pulpit
+fortification
+white house
+prison
+infrastructure
+hydrant
+lighthouse
+bridge
+suspension bridge
+tower bridge
+dam
+tunnel
+road
+asphalt road
+promenade
+sidewalk
+curb
+street
+highway
+driveway
+railway line
+crosswalk
+zebra crossing
+intersection
+canal
+trail
+alley
+bike lane
+path
+crossroad
+port
+water tower
+landfill
+plaza
+telegraph pole
+foundation
+facility
+assembly line
+heliport
+airfield
+station
+police station
+power station
+fire station
+gas station
+broadcasting station
+television studio
+terminal
+wind farm
+phone box
+factory
+workshop
+mall
+supermarket
+office
+ticket booth
+car wash
+spa
+ktv
+bar
+restaurant
+casino
+sports facilities
+bowling alley
+stadium
+bullring
+sports field
+football field
+basketball court
+volleyball court
+tennis court
+dormitory
+observatory
+library
+hotel
+resort
+theater
+office building
+rink
+cinema
+kindergarten
+post office
+zoo
+botanical garden
+raceway
+golf course
+swimming pool
+gym
+football stadium
+post
+fort
+airport
+airport runway
+museum
+archive
+army base
+warehouse
+payphone
+telephone booth
+flagpole
+playing field
+racetrack
+street light
+train track
+well
+mailbox
+exit
+fire escape
+depository
+silo
+treasury
+storehouse
+granary
+ammunition storage
+water tank
+exhaust hood
+lift
+faucet
+farm
+junkyard
+pharmacy
+stall
+store
+repair shop
+salon
+newsstand
+pet store
+flower shop
+bakery
+laboratory
+chemistry lab
+workplace
+studio
+music studio
+recording studio
+art studio
+laundromat
+winery
+grave
+estate
+construction site
+structure
+debris
+outdoor amenity
+ball pit
+sandbox
+fountain
+playgrounds
+slide
+campgrounds
+maze
+park
+amusement park
+amusement ride
+carousel
+ferris wheel
+water park
+picnic area
+garden
+campfire
+fire pit
+backyard
+lawn
+swing
+barrier
+window
+display window
+skylight
+floor window
+hedge
+paling
+wall
+city wall
+glass wall
+climbing wall
+seawall
+fence
+barricade
+gate
+door
+doorplate
+screen door
+car door
+elevator door
+glass door
+trench
+hurdle
+fender
+balustrade
+graveyard
+parking lot
+cage
+fireplace
+aquarium
+corral
+forge
+interior spaces
+balcony
+ceiling
+sink
+cockpit
+cabin
+basement
+loft
+urinal
+floor
+glass floor
+tile flooring
+wood floor
+room
+suite
+hotel room
+storage room
+pantry
+vault
+wine cellar
+closet
+bedroom
+dining room
+classroom
+hospital room
+operating room
+jail cell
+hall
+concert hall
+banquet hall
+conference hall
+auditorium
+recreation room
+gallery
+art gallery
+bathroom
+engine room
+dressing room
+kitchen
+restroom
+sauna
+locker
+computer room
+meeting room
+dance studio
+hotel lobby
+laundry room
+toilet bowl
+shower
+office cubicle
+passage
+drain
+pipe
+chimney
+corridor
+hallway
+aisle
+elevator shaft
+entrance
+archway
+product
+goods
+cargo
+medicine
+capsule
+dye
+acrylic paint
+freshener
+detergent
+cleaner
+soap
+shampoo
+toothpaste
+cigar
+cigarette
+spray
+tool
+clothespin
+umbrella
+hooks
+tableware
+cutlery
+fork
+spoon
+soup spoon
+knife
+ice cream scoop
+plate
+paper plate
+glass plate
+bowl
+glass bowl
+platter
+cup
+drinking glass
+champagne flute
+teacup
+chalice
+paper cup
+mug
+tea set
+chopsticks
+decanter
+gravy boat
+napkin
+tablecloth
+container
+flower pot
+cooler
+box
+shipping container
+carton
+pencil case
+crate
+safe
+toolbox
+gift box
+computer case
+bag
+briefcase
+luggage
+shopping bag
+backpack
+tote bag
+sleeping bag
+sack
+duffel
+handbag
+shoulder bag
+clutch bag
+gift bag
+paper bag
+bottle
+jug
+flask
+thermos
+gourd
+glass bottle
+baby bottle
+can
+watering can
+spray can
+candle
+cassette deck
+envelope
+mp3 player
+software
+stamp
+ink pad
+paper
+wrapping paper
+cardboard
+newspaper
+graph paper
+tissue
+stationery
+notepad
+blackboard
+pen
+fountain pen
+sharpie
+crayon
+pencil
+ink
+eraser
+board eraser
+binder
+bookmark
+folder
+notebook
+whiteboard
+clipboard
+stylus
+toiletry
+toilet paper
+handkerchief
+towel
+toothbrush
+perfume
+makeup
+makeup tool
+makeup brush
+makeup mirror
+hair roller
+comb
+hairspray
+shaving cream
+nail polish
+mascara
+eyeliner
+lipstick
+face powder
+eye shadow
+flashlight
+book cover
+test tube
+stick
+personal care
+mouthwash
+condom
+earplug
+curling iron
+ironing board
+sanitary pad
+charger
+salt shaker
+duct tape
+hose
+rope
+tripod
+easel
+fishing net
+crowbar
+crutch
+cane
+ladder
+connector
+chain
+hinge
+clasp
+knot
+pin
+thumbtack
+sharpener
+brush
+scrubbing brush
+hairbrush
+paintbrush
+oar
+paddle
+needle
+broom
+pole
+stilt
+ski pole
+mast
+fishing rod
+drill
+jack
+plow
+rake
+hoe
+mower
+wrench
+screwdriver
+saw
+chainsaw
+handsaw
+shovel
+hammer
+opener
+bottle opener
+can opener
+razor
+shaver
+pocketknife
+scissors
+axe
+3d glasses
+tape measure
+plunger
+pliers
+awl
+funnel
+tape
+ice pack
+shaker
+basket
+shopping basket
+flower basket
+bucket
+pipe bowl
+bin
+manger
+bundle
+tray
+ashtray
+dustpan
+basin
+barrel
+tub
+jar
+beaker
+bottle cap
+fishbowl
+yoke
+float
+palette
+ruler
+pitchfork
+razor blade
+horseshoe
+floss
+rein
+leash
+screw
+lock
+combination lock
+latch
+padlock
+clip
+roller
+rubber band
+key
+hairdryer
+compass
+stethoscope
+syringe
+thermometer
+iron
+magnifying glass
+binoculars
+handcuffs
+lid
+stapler
+stirrup
+gauge
+hourglass
+mallet
+hanger
+magnet
+mousetrap
+slot
+mail slot
+thresher
+copperware
+match
+harvester
+pegboard
+charcoal burner
+dryer
+vacuum cleaner
+trimmer
+concrete mixer
+trouser press
+equipment
+appliance
+musical instrument
+stringed instrument
+zither
+guzheng
+harp
+guitar
+violin
+cello
+erhu
+wind instrument
+recorder
+sax
+panpipes
+flute
+bugle
+trombone
+tuba
+whistle
+kazoo
+trumpet
+mouth organ
+keyboard instrument
+musical keyboard
+piano
+harpsichord
+accordion
+drumstick
+drum
+cymbal
+snare drum
+tambourine
+maraca
+plectrum
+barrel organ
+kitchen utensil
+stove
+gas stove
+wood-burning stove
+colander
+peeler
+masher
+rolling pin
+grater
+whisk
+blender
+pan
+frying pan
+wok
+roaster
+saucepot
+pot
+dutch oven
+saucepan
+coffeepot
+kettle
+grill
+reamer
+spatula
+pizza cutter
+measuring cup
+ladle
+pressure cooker
+teapot
+hotplate
+oven
+cutting board
+rice cooker
+toaster
+tongs
+ice maker
+dishwasher
+skewer
+electric range
+waffle iron
+microwave
+screen
+computer monitor
+projection screen
+spirit lamp
+anchor
+valve
+pump
+wiper
+handle
+knob
+door handle
+vane
+propeller
+bumper
+sprinkler
+switch
+headlight
+torch
+radar
+lightning rod
+robot
+firefighting equipment
+fire alarm
+fire hydrant
+fire hose
+fire extinguisher
+brake
+laser
+battery
+solar panel
+sports equipment
+snowboard
+surfboard
+yoga mat
+bridle
+horse blanket
+saddle
+saddlebag
+treadmill
+ski
+water ski
+hockey stick
+basketball hoop
+baseball bat
+baseball glove
+baseball base
+racket
+badminton racket
+tennis racket
+ping pong paddle
+diving board
+skate
+roller skate
+trampoline
+high bar
+rings
+balance beam
+wicket
+dumbbell
+barbell
+weight
+javelin
+mat
+golf equipment
+golf ball
+golf club
+tackle
+boxing glove
+bodyboard
+tennis net
+roller skates
+basketball backboard
+punching bag
+parasail
+finish line
+sideline
+target
+gymnastics apparatus
+cricket bat
+snowshoe
+battle rope
+ball
+rugby ball
+cricket ball
+bowling ball
+basketball ball
+soccer ball
+baseball ball
+tennis ball
+volleyball ball
+billiard ball
+camera
+camera lens
+shutter
+kit
+first-aid kit
+sewing kit
+carpenter's kit
+heater
+pendulum
+phone
+smartphone
+corded phone
+parachute
+poker chip
+oil rig
+life jacket
+lifebuoy
+plug
+socket
+showerhead
+scale
+juicer
+submersible
+megaphone
+recording device
+microphone
+game controller
+keyboard
+computer
+desktop computer
+laptop
+tablet
+server
+television
+radio
+calculator
+abacus
+atm
+gear
+engine
+steam engine
+machine
+washing machine
+slot machine
+vending machine
+sewing machine
+arcade game
+coffee maker
+fruit machine
+milking machine
+loom
+printer
+scanner
+typewriter
+windmill
+grinder
+cotton gin
+mill
+stone mill
+meat grinder
+coffee grinder
+water mill
+flour mill
+slicer
+lathe
+snow blower
+shredder
+fan
+ceiling fan
+floor fan
+water cooler
+satellite dish
+cd player
+amplifier
+excavator
+generator
+record player
+gramophone
+monitor
+projector
+air conditioner
+fridge
+sundial
+microscope
+lighting
+telescope
+remote
+medical equipment
+swab
+bandage
+adhesive bandage
+dropper
+hand dryer
+headphones
+panel
+circuit board
+wire
+humidifier
+jukebox
+electric chair
+furniture
+curtain
+canopy
+sunshade
+window screen
+lamp
+chandelier
+lampshade
+oil lamp
+floor lamp
+droplight
+wall lamp
+table lamp
+light bulb
+mirror
+rear-view mirror
+hand mirror
+clock
+alarm clock
+wall clock
+digital clock
+watch
+pocket watch
+storage
+cabinet
+dresser
+shelf
+bookshelf
+supermarket shelf
+bookcase
+tv cabinet
+wine rack
+coat rack
+drawer
+seat
+chair
+folding chair
+rocking chair
+swivel chair
+feeding chair
+wheelchair
+throne
+barber chair
+office chair
+couch
+sofa
+daybed
+stool
+footrest
+folding stool
+bar stool
+hassock
+bench
+pew
+window seat
+park bench
+training bench
+baby seat
+stroller
+table
+billiard table
+kitchen table
+counter
+desk
+workbench
+dining table
+table tennis table
+dressing table
+conference table
+operating table
+glass table
+nightstand
+altar
+bedding
+bed
+bunk bed
+berth
+hammock
+hospital bed
+dog bed
+double bed
+single bed
+waterbed
+canopy bed
+crib
+bedclothes
+quilt
+blanket
+bedcover
+sheet
+mattress
+carpet
+pillow
+throw pillow
+cradle
+headboard
+washstand
+bathtub
+toilet
+fixture
+clothing
+textile
+fabric
+cloth
+patch
+headdress
+headband
+cap
+shower cap
+beret
+skullcap
+swim cap
+visor
+hat
+straw hat
+dress hat
+witch hat
+sun hat
+cowboy hat
+fedora
+baseball cap
+party hat
+top hat
+christmas hat
+helmet
+football helmet
+bicycle helmet
+safety helmet
+racing helmet
+crown
+tiara
+wig
+garment
+sleepwear
+sleeve
+uniform
+military uniform
+school uniform
+leotard
+wet suit
+swimwear
+bikini
+veil
+leggings
+vest
+safety vest
+suit
+protective suit
+bib
+pants
+jeans
+shorts
+sweatpants
+diaper
+robe
+kimono
+bathrobe
+shirt
+dress shirt
+polo shirt
+t-shirt
+sweatshirt
+jersey
+sweater
+cardigan
+turtleneck
+scarf
+headscarf
+cloak
+poncho
+shawl
+coat
+jacket
+denim jacket
+leather jacket
+raincoat
+overcoat
+lab coat
+fur coat
+sport coat
+trench coat
+overall
+sportswear
+dress
+skirt
+miniskirt
+ballet skirt
+pencil skirt
+sari
+gown
+wedding dress
+kilt
+lace dress
+evening dress
+maxi dress
+underpants
+cheongsam
+hanfu
+baby clothes
+crop top
+jumpsuit
+underclothes
+bandeau
+corset
+hoodie
+wetsuit
+blouse
+waistband
+hood
+costume
+cosplay
+halloween costume
+coverall
+apron
+footwear
+stocking
+tights
+socks
+shoe
+boot
+sandal
+running shoe
+high heel
+skiing shoes
+leather shoe
+slipper
+flip-flop
+laundry
+transportation
+transportation structure
+bus station
+subway station
+traffic cone
+bus stop
+railroad
+vehicle
+spacecraft
+satellite
+space station
+space shuttle
+vehicle structure
+windshield
+taillight
+wheel
+tire
+steering wheel
+seat belt
+dashboard
+car seat
+car trunk
+bus
+school bus
+double-decker bus
+train
+train car
+locomotive
+steam train
+stretcher
+dolly
+rocket
+escalator
+sleigh
+construction vehicle
+vessel
+raft
+yacht
+boat
+fishing boat
+tugboat
+motorboat
+ferry
+canoe
+rowboat
+lifeboat
+inflatable boat
+swan boat
+sailboat
+sail
+passenger ship
+cruise ship
+warship
+aircraft carrier
+cruiser
+battleship
+submarine
+pirate ship
+cargo ship
+container ship
+tank
+unicycle
+skateboard
+bicycle
+mountain bike
+exercise bike
+scooter
+baby carriage
+tricycle
+railcar
+caboose
+freight car
+passenger car
+cart
+shopping cart
+wheelbarrow
+hand truck
+wagon
+car
+sports car
+taxi
+racing car
+limo
+convertible
+jeep
+sedan
+police car
+ambulance
+snowplow
+golf cart
+motorcycle
+truck
+lorry
+tow truck
+fire truck
+garbage truck
+food truck
+transporter
+police van
+go-kart
+tractor
+bulldozer
+forklift
+ski lift
+chairlift
+plane
+biplane
+jet
+fighter jet
+airliner
+seaplane
+cargo aircraft
+bomber
+drone
+helicopter
+glider
+balloon
+hot air balloon
+airship
+snowmobile
+atv
+self-balancing scooter
+pickup truck
+skibob
+horse-drawn vehicle
+trailer
+cable car
+elevator
+elevator car
+subway
+segway
+accessories
+lace
+hairnet
+belt
+broach
+mask
+eye mask
+earmuff
+wristband
+hairgrip
+hairpin
+belt buckle
+collar
+cigarette case
+cuff
+dog collar
+button
+zipper
+mousepad
+tie
+bolo tie
+glove
+pocket
+suspenders
+knee pad
+elbow pad
+glasses
+goggles
+sunglasses
+jewelry
+pendant
+necklace
+cufflinks
+bracelet
+anklet
+pearl
+jewel
+diamond
+earrings
+ring
+bead
+glass bead
+brooch
+decoration
+mannequin
+wallpaper
+wind chime
+picture frame
+totem pole
+celebratory items
+fireworks
+sparkler
+firecracker
+christmas decoration
+christmas light
+christmas tree
+christmas ball
+jack-o'-lantern
+snowman
+chinese knot
+gift
+lantern
+paper lantern
+halloween pumpkin
+chinese lantern
+confetti
+brass plaque
+tinsel
+floral arrangement
+wreath
+bouquet
+tapestry
+plume
+tassel
+lanyard
+balloon arch
+vase
+disco ball
+antique
+ribbon
+souvenir
+birthday candle
+weapon
+gun
+rifle
+handgun
+machine gun
+revolver
+paintball gun
+sword
+scimitar
+broadsword
+rapier
+dagger
+machete
+spear
+bomb
+sling
+dart
+bullet
+arrow
+bow
+crossbow
+tomahawk
+brass knuckles
+pike
+halberd
+flamethrower
+cannon
+mortar
+missile
+protective gear
+gas mask
+extinguisher
+armor
+bulletproof vest
+chainmail
+shield
+communication media
+net
+web page
+message
+physical media
+blueprint
+receipt
+bulletin board
+billboard
+menu
+gift card
+recipe
+placard
+scoreboard
+map
+journal
+sticker
+poster
+list
+checklist
+ticket
+movie ticket
+document
+certificate
+diploma
+passport
+license
+contract
+bill
+work card
+sheet music
+handwriting
+postcard
+bible
+fiction
+poetry
+letter
+checkbook
+passbook
+greeting card
+manuscript
+publication
+magazine
+newspapers
+book
+comic book
+paperback book
+hardback book
+atlas
+textbook
+dictionary
+record
+file
+register
+note
+cd
+album
+cassette
+dvd
+videotape
+fax
+reel
+symbolic representation
+sign
+symbol
+traffic sign
+stop sign
+speed limit sign
+parking sign
+road sign
+warning sign
+welcome sign
+written symbol
+font
+alphabet
+check mark
+dollar sign
+character
+percent sign
+signal
+alarm
+armband
+air sock
+brake light
+traffic light
+buoy
+icon
+avatar
+mark
+milestone
+label
+earmark
+watermark
+award
+medal
+bronze medal
+gold medal
+silver medal
+trophy
+visual identity
+design
+architecture
+pattern
+stripe
+emblem
+flag
+banner
+pirate flag
+national flag
+tricolor
+german flag
+south korean flag
+italian flag
+japanese flag
+canada flag
+brazilian flag
+chinese flag
+indian flag
+mexican flag
+australian flag
+russian flag
+south african flag
+argentine flag
+union jack
+american flag
+white flag
+red flag
+cross
+logo
+license plate
+letter logo
+badge
+identity card
+credit card
+keycard
+business card
+qr code
+barcode
+art
+clip art
+tattoo
+ceramic
+pottery
+porcelain
+fictional character
+cartoon character
+photography
+filming
+face close-up
+sculpture
+figurine
+bronze sculpture
+ice sculpture
+sand sculpture
+statue
+dance
+ballet
+folk dance
+painting
+mural
+oil painting
+watercolor painting
+portrait painting
+monochrome
+street art
+drawing
+doodle
+sketch
+manga
+mosaic
+image
+portrait
+medical image
+photo
+id photo
+wedding photo
+family photo
+selfie
+illustration
+cartoon illustration
+fashion illustration
+graph
+picture
+diagram
+time based media
+advertisement
+news
+press conference
+notice
+movie
+cartoon
+documentary
+horror film
+science fiction film
+animated film
+auditory expression
+music
+pop
+jazz
+disco
+audio
+laugh
+conversation
+argument
+drama
+opera
+comedy
+play
+musical
+recreational objects
+toy
+puppet
+playhouse
+lego
+doll
+barbie
+teddy
+toy car
+toy plane
+toy gun
+water gun
+piggy bank
+board game
+mahjong
+chess
+game board
+chessboard
+dartboard
+frisbee
+kite
+snowball
+seesaw
+kaleidoscope
+foosball
+hula hoop
+wand
+music box
+puzzle
+domino
+jigsaw puzzle
+card
+playing card
+digital gaming
+die
+money
+digital currency
+currency
+currency unit
+dollar
+pound sterling
+rmb
+currency form
+coin
+paper money
+check
+food
+coconut meat
+chocolate
+chocolate bar
+white chocolate
+baked goods
+cake
+chocolate cake
+cupcake
+pancake
+tortilla
+birthday cake
+waffle
+wedding cake
+doughnut
+brownie
+fruitcake
+mooncake
+bread
+crouton
+toast
+bagel
+croissant
+pretzel
+muffin
+biscuit
+baguette
+steamed bread
+bun
+cinnamon roll
+zongzi
+pie
+baozi
+eclair
+breadstick
+gingerbread house
+chapati
+pastry
+profiterole
+meat
+shellfish
+eel
+mussel
+scallop
+clam meat
+lobster meat
+oyster
+shrimp
+crabmeat
+whelk
+calamari
+octopus tentacles
+roe
+chicken wing
+escargot
+sausage
+ham
+bacon
+lamb chop
+poultry
+beef
+steak
+pork
+feed
+hay
+haystack
+pet food
+drink
+soy milk
+coffee
+cocoa
+tea
+alcohol
+liquor
+wine
+champagne
+sake
+beer
+cocktail
+whisky
+juice
+orange juice
+milk
+chocolate milk
+drinking water
+ice water
+bottled water
+lemonade
+milk tea
+shake
+fast food
+meal
+breakfast
+buffet
+feast
+picnic
+dishes
+caviar
+roast squab
+mashed potatoes
+fries
+bibimbap
+foie gras
+roast chicken
+home fries
+baked potato
+taco
+pizza
+sashimi
+casserole
+tempura
+paella
+burrito
+quesadilla
+porridge
+boiled egg
+meatball
+sushi
+pasta
+lasagna
+salad
+soup
+broth
+tomato soup
+fried egg
+curry
+fried rice
+barbecue
+stew
+kebab
+omelette
+french toast
+sandwich
+hamburger
+hot dog
+submarine sandwich
+potato chip
+popcorn
+fruit dish
+grilled eel
+onion ring
+scrambled eggs
+spring roll
+croquette
+fried chicken
+hotpot
+chow mein
+fish sticks
+meatloaf
+western food
+grain
+flour
+cornmeal
+rice
+paddy
+corn cob
+oats
+wheat grain
+corn
+rye
+dessert
+egg tart
+pudding
+tiramisu
+chocolate mousse
+ice cream
+ice cream cone
+sweet
+sugar cube
+syrup
+honey
+candy
+easter egg
+candy bar
+fudge
+candy cane
+lollipop
+cotton candy
+caramel
+jelly bean
+mint candy
+jam
+jelly
+bubble gum
+nectar
+condiment
+topping
+whipped cream
+frosting
+vanilla
+salt
+ginger
+dip
+vinegar
+mustard
+salsa
+sauce
+tomato sauce
+hot sauce
+gravy
+pickle
+turmeric
+garlic clove
+sesame seed
+peanut butter
+sugar
+cooking oil
+peppercorn
+dairy
+butter
+cream
+yogurt
+cheese
+egg
+yolk
+egg white
+macaroni
+spaghetti
+dumpling
+noodle
+cereal
+granola
+tofu
+dough
+batter
+stuffing
+tea bag
+baby food
+bento
+street food
+canned food
+spam
+muesli
+matter
+incense
+amber
+rust
+bubble
+peel
+banana peel
+orange peel
+lemon peel
+fuel
+charcoal
+coke
+oil
+ember
+states of matter
+compound
+mixture
+gel
+fluid
+gas
+steam
+solid
+powder
+crystal
+ice
+snowflake
+material
+glass
+plastic
+rock
+metal
+foil
+copper
+silver
+gold
+steel
+bronze
+brass
+mineral
+turquoise
+quartz
+amethyst
+citrine
+ruby
+sapphire
+emerald
+gravel
+granite
+marble
+building material
+plaster
+beam
+plank
+tile
+brick
+concrete
+cement
+tarmac
+block
+waste
+garbage
+fiber
+yarn
+wool
+cotton
+straw
+flax
+coir
+raffia
+silk
+string
+twine
+dirt
+sand
+clay
+mud
+wood
+lumber
+bamboo
+water
+wax
+insect repellent
+dust
+resin
+latex
+sponge
+fur
+leather
+parchment
+lava
+foam
+ash
+natural phenomenon
+weather
+hail
+foggy
+rainy
+snowy
+stormy
+sunny
+warm
+windy
+storm
+snowstorm
+tornado
+cloudy
+snow
+rain
+wave
+sunrise
+sunset
+eclipse
+hot spring
+flame
+flood
+earthquake
+aurora
+bolt
+dew
+lightning
+flare
+moonlight
+sunshine
+fire
+wildfire
+icicle
+frost
+light
+shadow
+darkness
+sparkle
+rainbow
+reflect
+mythological creatures
+fairy
+santa claus
+cupid
+angel
+loki
+leprechaun
+vampire
+monster
+witch
+mermaid
+unicorn
+dragon
+magic
+ghost
+group
+queue
+lineup
+social group
+friend
+gang
+family
+couple
+tribe
+demographic group
+youth
+elderly
+community
+town
+village
+downtown
+city
+countryside
+flock
+herd
+organization
+business group
+company
+business team
+bank
+market
+fish market
+flower market
+street market
+fruit market
+night market
+vegetable market
+educational group
+school
+art school
+campus
+university
+academy
+class
+government group
+government
+court
+fire department
+municipality
+police
+military group
+army
+navy
+fleet
+troop
+artistic group
+band
+choir
+ensemble
+marching band
+sports team
+baseball team
+basketball team
+football team
+ice hockey team
+cricket team
+charity
+team
+crew
+collective assembly
+parade
+exhibition
+art exhibition
+car show
+airshow
+banquet
+meeting
+seminar
+gathering
+crowd
+measure
+time
+vacation
+calendar
+season
+winter
+summer
+spring
+autumn
+night
+morning
+evening
+time period
+score
+number
+numeric quantity
+half
+quarter
+water level
+part
+slice
+attribute
+scene
+natural scene
+appearance
+scratch
+wound
+burn
+pawprint
+shine
+footprint
+bite
+transparency
+freckle
+stain
+profile
+beautiful
+texture
+rough
+soft
+smooth
+style
+modern
+dark
+scar
+crack
+plaque
+symmetry
+reflection
+wrinkle
+color
+white
+black
+blue
+yellow
+green
+pink
+red
+brown
+purple
+gray
+orange color
+shape
+point
+round shape
+figure
+triangle
+oval
+circle
+rectangle
+square
+cone
+dot
+rim
+hook
+cylinder
+curve
+arch
+loop
+cube
+sphere
+view
+underwater
+horizon
+city view
+mountain view
+night view
+sea view
+outdoor
+street view
+harbor view
+winter view
+village view
+state
+wet
+bright
+pose
+standing
+upright
+rural
+shirtless
+pollution
+relax
+hot
+sleep
+drought
+mess
+flush
+tan
+injury
+fitness
+trim
+disease
+depression
+frozen
+bloom
+hang
+damp
+calm
+luxury
+athletic
+quality
+event
+cognition
+recycling
+prayer
+activity
+test
+trade
+business
+industry
+agriculture
+shipping
+sale
+auction
+shopping
+action
+move
+jump
+climb
+ride
+sailing
+hike
+chase
+walk
+run
+flip
+takeoff
+baking
+demolition
+aid
+cheer
+archaeological excavation
+grazing
+talking
+arrest
+trial
+celebrate
+touch
+rescue
+kiss
+throw
+roll
+dribble
+sunbathe
+capture
+injection
+handstand
+squat
+wrestle
+looking
+stare
+wash
+hug
+feeding
+push
+pull
+smile
+salute
+applause
+handshake
+greeting
+help
+teach
+interaction
+putt
+landing
+catch
+casting
+kneel
+cooking
+carry
+punch
+kick
+stab
+spin
+repair
+eat
+pour
+sing
+sit
+sew
+carving
+type
+bathing
+washing
+blow
+clutch
+clean
+swinge
+haircut
+act
+squeeze
+competitive event
+sport
+surfing
+taekwondo
+walking
+tai chi
+mountain climbing
+high jump
+archery
+swim
+dive
+cycling
+horse riding
+ice skating
+yoga
+boxing
+hockey
+football
+ping pong
+rugby
+bullfighting
+handball
+badminton
+polo
+karting
+motorsport
+rock climbing
+weightlifting
+mountain biking
+hockey game
+softball
+baseball
+tennis
+volleyball
+golf
+basketball
+bowling
+table tennis
+karate
+competition
+football competition
+baseball competition
+tennis competition
+volleyball competition
+basketball competition
+race
+bike racing
+marathon
+slalom
+formula 1
+celebratory event
+festival
+new year
+halloween
+christmas
+bonfire
+wedding reception
+fireworks display
+party
+wedding party
+birthday party
+prom
+dinner party
+ceremony
+celebration
+wedding
+funeral
+graduation
+award ceremony
+catastrophic event
+forest fire
+conflict
+battle
+accident
+explosion
+disaster
+emergency
+traffic jam
+crash
+life event
+birth
+death
+wedding day
+anniversary
+birthday
+entertainment
+show
+performance
+concert
+circus
+juggle
+light show
+fashion show
+talk show
+stunt
+game
+karaoke
+lottery
+video game
+billiards
+card game
+poker
+playing chess
+playing mahjong
+camping
+boat ride
+fishing
+healthcare activities
+therapy
+exercise
+massage
+communication activities
+invitation
+speech
+interview
+debate
+live
+call
+protest
+dating
+blackberry

@@ -1,0 +1,5 @@
+bash run.sh hitag/configs/pretrain.yaml \
+             outputs \
+             output_eval
+
+
